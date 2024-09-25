@@ -6,7 +6,7 @@ export const Navbar = () => {
     <nav className="bg-black text-white p-4">
       <div className="container mx-auto flex justify-between items-center">
         <Link href="/" className="mr-4">
-          <h1 className="text-xl font-bold">Task Manager</h1>
+          <h1 className="text-xl font-bold">Tasky</h1>
         </Link>
         <div>
           <Link href="/tasks">Tasks</Link>
